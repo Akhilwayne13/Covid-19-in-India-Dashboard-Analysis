@@ -4,7 +4,7 @@ This project is a comprehensive Tableau dashboard that visualizes the spread, te
 
 ---
 
-##Dashboard Features
+#Dashboard Features
 
 - **Map Visualization**  
   Interactive map showing total deaths by state, shaded by severity.
@@ -26,7 +26,7 @@ This project is a comprehensive Tableau dashboard that visualizes the spread, te
 
 ---
 
-## 📌 Tools & Technologies
+#Tools & Technologies
 
 - **Tableau** – For interactive visualizations and dashboards  
 - **Excel / CSV** – For data preprocessing and cleanup  
@@ -35,7 +35,7 @@ This project is a comprehensive Tableau dashboard that visualizes the spread, te
 
 ---
 
-##Files
+#Files
 
 - `dashboard.twbx` – Tableau workbook file (if added)
 - `data.csv` – Sample/prepared dataset
@@ -43,7 +43,7 @@ This project is a comprehensive Tableau dashboard that visualizes the spread, te
 
 ---
 
-##Insights Derived
+#Insights Derived
 
 - Maharashtra and Kerala had the highest number of confirmed cases and deaths.
 - The majority of doses administered were Covishield.
@@ -53,7 +53,7 @@ This project is a comprehensive Tableau dashboard that visualizes the spread, te
 
 ---
 
-##How to Use
+#How to Use
 
 1. Clone or download the repository  
 2. Open the `.twbx` file in Tableau Desktop  
@@ -62,7 +62,7 @@ This project is a comprehensive Tableau dashboard that visualizes the spread, te
 
 ---
 
-##Author
+#Author
 
 **Akhil Sai Samineni**  
 B.Tech in Data Science, Holy Mary Institute of Science & Technology  
@@ -70,7 +70,7 @@ Email: [akhilsai1303@gmail.com](mailto:akhilsai1303@gmail.com)
 
 ---
 
-## 💬 Contributions
+#Contributions
 
 Feel free to fork, suggest improvements, or use the layout/design for your own COVID-19 or public health dashboard projects.
 
